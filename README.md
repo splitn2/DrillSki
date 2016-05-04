@@ -7,12 +7,12 @@ So the plan is to document the database that is out there so far. How that is ca
 
 We need to collect info such as.......
 
-..*Binding model and year
-..*Size small/med/large if applicable
-..*Toe and heel screw locations in x / y format in mm referenced to the middle line of the ski as zero and the middle line accross the heel/toe piece as zero - does that make sense?
-..*Length and diameter of screw holes 
-..*Torque settings if applicable
-..*Please add to this list.....
+..* Binding model and year
+..* Size small/med/large if applicable
+..* Toe and heel screw locations in x / y format in mm referenced to the middle line of the ski as zero and the middle line accross the heel/toe piece as zero - does that make sense?
+..* Length and diameter of screw holes 
+..* Torque settings if applicable
+..* Please add to this list.....
     
 Then the process of taking this data and turning it into a PDF or gcode or other formats such as DXF, so its useful..... feel free to start suggesting how this is done.
 
