@@ -1,0 +1,13 @@
+Define a binding drilling pattern
+Shall we stick to mm since thats what most ski boots and bindings (probably all actually) are measured in
+toex
+toey
+toez
+heelx
+heely
+heelz
+centrescrew (eg Marker Duke)
+Points in x are relative to the length centre line of the ski end to end
+Points in toey, are relative to the exact front of the boot sole, so we can start making a relativity to boot sole length BSL. toey0 is the exact front of the boot sole
+screw diameter(s)
+screw length(s)
