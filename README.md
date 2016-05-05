@@ -1,4 +1,4 @@
-# DrillSki
+# DrillSki (as distinct from "Shot-Ski")
 An open database of snow ski binding templates, with tools to create pdf templates and output gcode for direct cnc drill. Enter your boot sole length and the binding model and out pops the info you need ready to go mount your bindings.
 
 I mount a fair number of ski bindings every winter. Its time consuming boring but needs a great attention to detail and either expensive drilling jigs or paper templates are the only option. But I have a CNC and its a lot more accurate than any template.
