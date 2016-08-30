@@ -1,2 +1,14 @@
 Binding definition database
-Dynafit TLT
+
+*toe piece co-ordinates defined clockwise starting from front left screw eg. T1 T2 T3 T4 .......
+*centrescrew (eg Marker Duke) can be another toe reference
+*heel piece co-ordinates defined clockwise wtarting from front left screw eg. H1 H2 H3 H4 .......
+*screw diameter(s) defined by SD
+*screw length(s) defined by SL (this is Z depth)
+
+model,T1,T2,T3,T4,T5,C1,H1,H2,H3,H4,H5,H6,SD,SL
+
+DynafitTLT,
+MarkerBaronDuke,
+SalomonSTH2,
+
