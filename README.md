@@ -18,4 +18,4 @@ Then the process of taking this data and turning it into a PDF or gcode or other
 
 This could be a great enabler for a small or large ski shop with a very basic 3 axis cnc. It could be used with open source cnc software like GRBL on Arduino based CNC controller to make a fast and reliable workshop router that quickly selected the model and BSL
 
-Thanks to Knut Pohl who has kindly allowed the use of his templates as a reference and I have uploaded a set of these to the Git to strip out the co-ordinates as and when time allows. His website is http://www.powderguide.com/community/forum/post/zubehoer/montageanleitung-bindung-schnell-und-praezise-montieren.html and it contains pdf of most common ski binding drilling templates.
+Thanks to Knut Pohl who has kindly allowed the use of his templates as a reference , so I have uploaded a set of these to the Git and will strip out the co-ordinates and document them in a CSV file as and when time allows. His website is http://www.powderguide.com/community/forum/post/zubehoer/montageanleitung-bindung-schnell-und-praezise-montieren.html and it contains pdf of most common ski binding drilling templates.
