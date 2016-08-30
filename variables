@@ -10,3 +10,7 @@ Define a binding drilling pattern
    *screw diameter(s) defined by SD
   *screw length(s) defined by SL
   *From a zero point , negative values are to the left, positive values are to the right, logically.....
+
+Using the templates that exist from Knut Pohl, they reference x and y values for drilling holes whose origin can be traced back to the BSL zero line and ski centerline.
+So this should make it easy to do in a spreadsheet for a start to generate co-ordinates for X and Y to be then converted to gcode.
+However the best way is to take that BSL and binding xy drilling data and build a simple app that generates the gcode / pdf / dxf directly
