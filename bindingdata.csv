@@ -1,18 +1,19 @@
 Binding definition database
 
-*toe piece co-ordinates defined clockwise starting from front left screw eg. T1 T2 T3 T4 .......
+*toe piece co-ordinates defined clockwise starting from front left screw
 *centrescrew (eg Marker Duke) can be another toe reference
-*heel piece co-ordinates defined clockwise wtarting from front left screw eg. H1 H2 H3 H4 .......
+*heel piece co-ordinates defined clockwise wtarting from front left screw
 *screw diameter(s) defined by SD
 *screw length(s) defined by SL (this is Z depth)
-* +y is towards the tip of the ski, -y is towards the tail
-* +x is to the right sde of the ski, -x is to the left (looking down on top of the ski of course)
+* +y is towards the left of the ski, -y is towards the right
+* +x is to the tip of the ski, -x is to the tail (looking down on top of the ski of course)
 * x0y0 is the ski centre line for ski centre BSL intersecting the ski mid line
 * z0 is the level of the topsheet at the ski center line BSL
 
 As the pdf files are reviewed and the data worked out the csv below will be added to.
 
 model,T1,T2,T3,T4,T5,C1,H1,H2,H3,H4,H5,H6,SD,SL
+sample,x20y20,x20y-20,x-20y-20 (and so on, making sure all fields even blank ones for undefined screws are seperated by commas
 
 Diamir-Freeride
 Diamir-FreeridePro+Eagle
