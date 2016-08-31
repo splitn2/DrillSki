@@ -1,5 +1,5 @@
 model,T1,T2,T3,T4,T5,C1,H1,H2,H3,H4,H5,H6,SD,SL
-sample,x20y20,x20y-20,x-20y-20 (and so on, making sure all fields even blank ones for undefined screws are seperated by commas
+sample,x20y20,x20y-20,x-20y-20,,,,,,,,,,
 Diamir-Freeride
 Diamir-FreeridePro+Eagle
 Diamir-Vipec
