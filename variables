@@ -22,3 +22,5 @@ Binding definition database
   * +x is to the tip of the ski, -x is to the tail (looking down on top of the ski of course)
   * x0y0 is the ski centre line for ski centre BSL intersecting the ski mid line
   * z0 is the level of the topsheet at the ski center line BSL
+  
+  Using Knut Pohl method of defining the co-ordinates on this template, everything is relative to the boole sole centre point to either the heel or toe line on the boot right at the extremity of the plastic sole. This is how we can offsett he screw holes relative to the boot sole length.
